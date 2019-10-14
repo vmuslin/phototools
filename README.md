@@ -13,7 +13,7 @@ with multiple devices, even when such devices to time-synchronized.
 The solution is to prepend timestamp to the filename so that the
 chronological and lexicographical order become the same.
 
-*8Implementation:**
+**Implementation:**
 
 This utility extracts the time when the photo was taken from the
 EXIF metadata of the photo and renames the file by prepending the
